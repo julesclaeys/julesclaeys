@@ -2,7 +2,7 @@
 
 | Hello there, welcome to my GitHub profile! My name is **Jules Claeys**.
 
-![Welcome GIF](https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif) |
+![Welcome GIF](https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif)
 
 
 ## 🌼About me
@@ -14,3 +14,32 @@ I'm a Data Engineering Consultant at [***The Information Lab***](https://www.the
 * 1x Tableau VOTD Winner
 
 [![Vancouver Canucks Dashboard](VOTD.png)](https://public.tableau.com/app/profile/jules.claeys/viz/VancouverCanucksSeasonRecapSportsVizSunday/TeamDashboard)
+
+* Shortlisted in Chelsea Design Competition
+
+
+## 📸 Portfolio
+
+* [Tableau Public](https://public.tableau.com/app/profile/jules.claeys/vizzes)
+
+* [LinkedIn](https://www.linkedin.com/in/jules-claeys-66944b200/)
+
+* CV *Soon*
+
+| ![Tableau Analyst](https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png)|![Alteryx Designer](https://images.credly.com/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png)  
+
+
+## 🎈 Personal Projects
+
+* [Hockey Shot Plot Turotial](https://github.com/julesclaeys/Shot-Plot-Tutorial-Hockey)
+
+* [Git Hub Pages](https://julesclaeys.github.io/)
+
+* [Bar Race JavaScript](https://julesclaeys.github.io/bar_race.html)
+
+* [MSc Biodiversity Statistics in R](https://github.com/julesclaeys/Group-Project) 
+
+## 🏆 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesClaeys&show_icons=true&theme=default)
+
