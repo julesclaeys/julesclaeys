@@ -2,8 +2,6 @@
 
 | Hello there, welcome to my GitHub profile! My name is **Jules Claeys**.
 
-![Welcome GIF](https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif)
-
 
 ## 🌼About me
 
