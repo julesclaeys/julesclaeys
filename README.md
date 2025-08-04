@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-| Hello there, welcome to my GitHub profile! My name is **Jules Claeys**.
+| Welcome to my GitHub profile! My name is **Jules Claeys**.
 
 
 ## 🌼About me
