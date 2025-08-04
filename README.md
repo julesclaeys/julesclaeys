@@ -15,7 +15,7 @@ I'm an Analytics Engineer Consultant at [***The Information Lab***](https://www.
 
 * Shortlisted in Chelsea Design Competition
 
-[![Chelsea Dashboard](src="https://github.com/user-attachments/assets/5f87a98d-6641-4b7b-a4c1-a690e836a4d7")]([https://public.tableau.com/app/profile/jules.claeys/viz/VancouverCanucksSeasonRecapSportsVizSunday/TeamDashboard](https://public.tableau.com/app/profile/jules.claeys/viz/CFC-PlayerManagementDashboard/LandingPageHazard))
+[![Chelsea Dashboard](Chelsea.png)]([https://public.tableau.com/app/profile/jules.claeys/viz/VancouverCanucksSeasonRecapSportsVizSunday/TeamDashboard](https://public.tableau.com/app/profile/jules.claeys/viz/CFC-PlayerManagementDashboard/LandingPageHazard))
 
 ## 📸 Portfolio
 
