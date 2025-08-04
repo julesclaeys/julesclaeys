@@ -5,7 +5,7 @@
 
 ## 🌼About me
 
-I'm a Data Engineering Consultant at [***The Information Lab***](https://www.thedataschool.co.uk/blog/jules-claeys/). On my profile you will find my personal projects and tutorials I created or went through. You can also find my [Blogs](https://www.thedataschool.co.uk/blog/?ds=41&author=jules-claeys) and follow my journey through the Data world.
+I'm an Analytics Engineer Consultant at [***The Information Lab***](https://www.thedataschool.co.uk/blog/jules-claeys/). On my profile you will find my personal projects and tutorials I created or went through. You can also find my [Blogs](https://www.thedataschool.co.uk/blog/?ds=41&author=jules-claeys) and follow my journey through the Data world.
 
 ## 🐐 Achievements
 
